@@ -87,6 +87,7 @@ int main()
 
     while(1)
     {
+        cout<<"Queue\n";
         cout<<"\nEnter the options below to perform:\n";
         cout<<"1.Enqueue\n";
         cout<<"2.Dequeue\n";
@@ -155,4 +156,5 @@ int main()
                 }
         }
     }
+
 }
